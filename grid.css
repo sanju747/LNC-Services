@@ -1,0 +1,38 @@
+*{
+    margin: 4px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+.section{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+}
+
+img{
+    height: 250px;
+}
+
+h1{
+    position: absolute;
+    margin: 20px;
+    font-size: 20px;
+
+}
+
+.intro{
+    height: 100px;
+    width: 300;
+    padding: 6px;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 112px;
+    background: rgb(27,27,27,.5);
+    color: white;
+}
